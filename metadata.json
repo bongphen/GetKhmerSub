@@ -1,0 +1,5 @@
+{
+  "name": "AudioSub: Batch Subtitle Generator",
+  "description": "Automatically generate and translate subtitles for multiple audio files using AI. Supports auto-language detection and Khmer translation.",
+  "requestFramePermissions": []
+}
